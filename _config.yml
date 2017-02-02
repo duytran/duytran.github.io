@@ -1,6 +1,6 @@
 # Site settings
-title: The Adventures of Cio
-description: The journey of Cio in Tech's World
+title: Cio
+description: The Cio Blog
 url: 'http://duytran.github.io/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,10 +9,10 @@ baseurl: '/'
 author:
   name: 'Duy Tran'
   email: tranduydn@gmail.com
-  twitter_username: ciosanza
-  facebook_username: tranduy
-  github_username:  duytran
-  linkedin_username:  duy-tran-89078433
+  # twitter_username: ciosanza
+  # facebook_username: tranduy
+  # github_username:  duytran
+  # linkedin_username:  duy-tran-89078433
 
 defaults:
   -
